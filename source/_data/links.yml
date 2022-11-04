@@ -1,0 +1,36 @@
+
+#友链
+'WQQ':
+  - title: wqq
+    url: https://wen-luminous.xyz
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311504016.jpg
+    screenshot: 
+    description:
+
+#卡片
+'Study':
+  - title: React
+    url: https://react.docschina.org/
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311531658.png
+    screenshot: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311530145.png
+    description:
+  - title: Vue
+    url: https://cn.vuejs.org/
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311539545.png
+    screenshot: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311537005.png
+    description:
+  - title: Runoob
+    url: https://www.runoob.com/
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311551127.png
+    screenshot: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311543973.png
+    description:
+  - title: Liaoxuefeng
+    url: https://www.liaoxuefeng.com/
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311551127.png
+    screenshot: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311546682.png
+    description:
+  - title: W3school
+    url: https://www.w3school.com.cn/
+    avatar: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311549234.png
+    screenshot: https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311548010.png
+    description:

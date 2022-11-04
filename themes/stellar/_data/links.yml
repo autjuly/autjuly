@@ -1,0 +1,51 @@
+
+#友链
+'WQQ':
+  - title: wqq
+    url: https://wen-luminous.xyz
+    avatar: http://cdn.kitel.top//img/202211040935470.jpg
+    screenshot: 
+    description:
+
+#卡片
+'Frame':
+  - title: React
+    url: https://react.docschina.org/
+    avatar: http://cdn.kitel.top//img/202211040924236.png
+    screenshot: http://cdn.kitel.top//img/202211040923774.png
+    description:
+  - title: Vue
+    url: https://cn.vuejs.org/
+    avatar: http://cdn.kitel.top//img/202211040922351.png
+    screenshot: http://cdn.kitel.top//img/202211040922327.png
+    description:
+
+'Study'
+  - title: Runoob
+    url: https://www.runoob.com/
+    avatar: http://cdn.kitel.top//img/202211040921995.png
+    screenshot: http://cdn.kitel.top//img/202211040921818.png
+    description:
+  - title: Liaoxuefeng
+    url: https://www.liaoxuefeng.com/
+    avatar: http://cdn.kitel.top//img/202211040920120.png
+    screenshot: http://cdn.kitel.top//img/202211040920585.png
+    description:
+  - title: W3school
+    url: https://www.w3school.com.cn/
+    avatar: http://cdn.kitel.top//img/202211040924902.png
+    screenshot: http://cdn.kitel.top//img/202211040924798.png
+    description:
+  - title: ThreeJs
+    url: https://threejs.org/
+    avatar: http://cdn.kitel.top//img/202211040926861.png
+    screenshot: http://cdn.kitel.top//img/202211040925604.png
+    description:
+
+
+'Boss':
+  - title: 张鑫旭
+    url: https://www.zhangxinxu.com/
+    avatar: http://cdn.kitel.top//img/202211041013621.png
+    screenshot: http://cdn.kitel.top//img/202211041012722.png
+    description: 前端大佬，著有《CSS世界》等
